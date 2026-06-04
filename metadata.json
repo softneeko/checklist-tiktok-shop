@@ -1,0 +1,6 @@
+{
+  "name": "Checklist de Produção",
+  "description": "Aplicativo para gerenciar dias de trabalho e a quantidade de produtos produzidos de segunda a domingo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
